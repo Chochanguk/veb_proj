@@ -1,7 +1,7 @@
 <template>
   <div>
       <input type="text" v-model="test" placeholder=".shop주소 도메인명을 쓰시오."/>
-      <buttonL v-on:click="move">이동</buttonL>
+      <buttonL v-on:click="move">이동1</buttonL>
   </div>
 </template>
 
